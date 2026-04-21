@@ -1,8 +1,9 @@
 {
-  "name": "my-app",
+  "name": "railway-tickets",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://aleksvir.github.io/railway-tickets/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
